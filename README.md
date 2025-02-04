@@ -29,11 +29,6 @@ CSS3 – For styling and layout enhancements
 jQuery – For handling navigation and interactive elements
 
 # How to Use
-
-Clone the repository:
-
-git clone https://github.com/yourusername/repository-name.git
-
 Open index.html in your browser.
 
 Customize the design and scripts as needed.
