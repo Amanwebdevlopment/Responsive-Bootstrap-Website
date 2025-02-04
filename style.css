@@ -1,0 +1,101 @@
+
+/* global class */
+body{
+    font-family: Montserrat, sans-serif;
+
+}
+img{
+width: 100%;
+}
+h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+h4 {
+    font-size: 19px;
+    line-height: 1.375em;
+    color: #303030;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+
+/* header style */
+header{
+    background-color: #f4511e;
+}
+.navbar{
+    font-size: 12px;
+    letter-spacing: 4px;
+}
+.custom-toggler{
+    color: black !important;
+    font-size: 2em !important;
+}
+.navbar-brand a{
+    color: #fff;
+}
+.nav-item {
+    color: #fff;
+}
+/* banner style  */
+#banner{
+    background-color: #f4511e;
+}
+.jumbotron{
+    background-color: #f4511e;
+    color: #fff;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+}
+.jumbotron h1{
+    font-size: 63px;
+}
+.form-inline{
+    justify-content: center;
+}
+.jumbotron p{
+    font-size: 21px;
+    font-weight: 200;
+} .material-symbols-outlined{
+    color: #f4511e;
+    font-size: 200px;
+}
+/* about */
+.about-btn{
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+    border: black solid 1px;
+}
+/* our value  */
+#our-value{
+    background-color: #f6f6f6;
+}
+/* service */
+.service-icon{
+    font-size: 70px;
+}
+/* portfolio */
+#portfolio{
+    background-color: #f6f6f6;
+}
+.portfolio-card{
+    background-color: #fff;
+}
+/* contact */
+.contact-icon{
+    font-size: 18px;
+}
+.footer-icon{
+    font-size: 32px;
+}
+@media(max-width:994px){
+  .navbar-nav{
+    flex-direction: column;
+  }
+}
